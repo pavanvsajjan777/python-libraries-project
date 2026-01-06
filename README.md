@@ -1,1 +1,13 @@
 # python-libraries-project
+
+
+
+Project: Customer Churn Prediction System Technologies: Python, Pandas, Scikit-Learn, Random Forest, Matplotlib
+
+Developed a Supervised Machine Learning model to predict customer attrition (churn) for a telecom service provider, aiding in proactive customer retention.
+
+Performed extensive Data Preprocessing and Feature Engineering on a dataset of 7,000+ customers, utilizing Pandas for data cleaning and One-Hot Encoding for categorical variable transformation.
+
+Implemented and trained a Random Forest Classifier, achieving a prediction accuracy of ~79% on unseen test data.
+
+Analyzed model performance using a Confusion Matrix to minimize false negatives and correctly identify high-risk customers.
