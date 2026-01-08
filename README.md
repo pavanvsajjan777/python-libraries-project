@@ -1,8 +1,5 @@
-# python-libraries-project
-
-
-
-Project:Customer Churn Prediction System Technologies: Python, Pandas, Scikit-Learn, Random Forest, Matplotlib
+# Project 1 :Customer Churn Prediction System 
+Technologies: Python, Pandas, Scikit-Learn, Random Forest, Matplotlib
 
 Developed a Supervised Machine Learning model to predict customer attrition (churn) for a telecom service provider, aiding in proactive customer retention.
 
@@ -12,7 +9,7 @@ Implemented and trained a Random Forest Classifier, achieving a prediction accur
 
 Analyzed model performance using a Confusion Matrix to minimize false negatives and correctly identify high-risk customers.
 
-#  Project: EcoTrust – Decentralized Supply Chain Auditor
+#  Project 2 : EcoTrust – Decentralized Supply Chain Auditor
 Developed an automated verification system using Python to detect fraudulent sustainability certificates in supply chains.
 
 Integrated Generative AI (Google Gemini) to parse unstructured text and validate compliance with ISO 14001 standards.
